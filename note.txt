@@ -1,1 +1,3 @@
 hey this is note
+
+this is the update from KAN-1
